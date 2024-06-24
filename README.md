@@ -1,4 +1,4 @@
-Projeto de Cadastro e Listagem de Produtos
+# Projeto de Cadastro e Listagem de Produtos
 
 Este repositório contém um projeto que permite cadastrar e listar produtos, com funcionalidades específicas tanto no frontend quanto no backend. Abaixo estão as instruções para configurar e executar a aplicação.
 
